@@ -39,10 +39,3 @@ button {
 button {
   padding: 0.5em;
 }
-@media (max-width: 1000px) {
-  .sidebar {
-    display: grid;
-    margin-top: 417px;
-    position: fixed;
-  }
-}
